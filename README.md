@@ -1,2 +1,3 @@
-# JavaSchoolCodes
-Codes that I have created as assignments for Programming 1&amp;2 at my university. Only including codes that have been created from scratch.
+<h1 align="center">JavaSchoolCodes 📚</h1>
+
+<p align="center">A collection of my assignments from Programming 1 & 2, crafted from scratch during my university studies.</p>
